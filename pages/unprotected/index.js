@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Unrotected</title>
+        <title>Protected</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Unrotected
+          Protected
         </p>
       </main>
 
