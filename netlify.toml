@@ -7,6 +7,7 @@
 
 [[redirects]]
   from = "/protected"
+  to = "/"
   force = true
   status = 200
   conditions = {Role = ["user"]}
